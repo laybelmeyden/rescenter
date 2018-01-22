@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Сообщение с сайта IT-START</title>
+  </head>
+  <body>
+    <h1>Заявка на участие в мероприятии</h1>
+    Имя - {{ $name }} <br />
+    Почта - {{ $email }} <br />
+    Мероприятие - {{ $title }} <br />
+  </body>
+</html>
